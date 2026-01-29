@@ -6,7 +6,7 @@ title = "Feldenkraisova® metoda"
 
 [params.author]
 name = "Hana Kalinová"
-image = "img/author.jpg"
+# image = "img/author.jpg"
 headline = "Feldenkraisova® metoda • Jóga pro dobrý pocit"
 bio = "Individuální i skupinové lekce v Mníšku pod Brdy a okolí."
 links = [
