@@ -1,5 +1,5 @@
 ---
-title: "Můj první článek"
+title: "První článek"
 date: 2026-01-28T10:00:00+01:00
 draft: false
 tags: ["feldenkrais", "novinky"]

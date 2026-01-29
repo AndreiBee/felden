@@ -7,16 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>cs</language>
     <copyright>© 2026 Hana Kalinová</copyright>
-    <lastBuildDate>Wed, 28 Jan 2026 10:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jan 2026 11:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Můj první článek</title>
+      <title>Třetí článek</title>
+      <link>http://localhost:1313/posts/treti_clanek/</link>
+      <pubDate>Thu, 29 Jan 2026 11:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/treti_clanek/</guid>
+      <description>Krátké shrnutí článku (used for cards and meta).</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/treti_clanek/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Druhý článek</title>
+      <link>http://localhost:1313/posts/druhy_clanek/</link>
+      <pubDate>Thu, 29 Jan 2026 10:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/druhy_clanek/</guid>
+      <description>Krátké shrnutí článku (used for cards and meta).</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/druhy_clanek/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>První článek</title>
       <link>http://localhost:1313/posts/prvni_clanek/</link>
       <pubDate>Wed, 28 Jan 2026 10:00:00 +0100</pubDate>
       
       <guid>http://localhost:1313/posts/prvni_clanek/</guid>
       <description>Krátké shrnutí článku (used for cards and meta).</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/prvni_clanek/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/prvni_clanek/cover.jpg" />
     </item>
     
     <item>

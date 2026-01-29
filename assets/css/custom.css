@@ -3,7 +3,7 @@ html, body {
 }
 
 body {
-  background-image: url("/img/background.svg");
+  background-image: url("/img/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -14,8 +14,9 @@ body::before {
   content: "";
   position: fixed;
   inset: 0;
-  backdrop-filter: blur(50px);
-  -webkit-backdrop-filter: blur(50px); /* Safari */
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px); /* Safari */
   z-index: -1;
 }
 
