@@ -1,26 +1,20 @@
 [build]
-    publish = "exampleSite/public"
+  publish = "public"
+  command = "hugo --gc --minify -b ${URL}"
 
 [build.environment]
-    HUGO_VERSION = "0.124.0"
-    HUGO_THEME = "blowfish"
-
-[context.production]
-    command = "cd exampleSite && hugo --gc --themesDir ../.. -b ${URL}"
-    [context.production.environment]
-        HUGO_ENV = "production"
+  # Netlify Hugo guide: nastav si verzi, aby se ti to nerozbíjelo mezi buildy
+  HUGO_VERSION = "0.154.5"
+  HUGO_ENV = "production"
 
 [context.branch-deploy]
-    command = "cd exampleSite && hugo --gc --themesDir ../.. -b ${DEPLOY_PRIME_URL}"
+  command = "hugo --gc --minify -b ${DEPLOY_PRIME_URL}"
 
 [context.deploy-preview]
-    command = "cd exampleSite && hugo --gc --themesDir ../.. -b ${DEPLOY_PRIME_URL}"
+  command = "hugo --gc --minify -b ${DEPLOY_PRIME_URL}"
 
 [[plugins]]
-    package = "netlify-plugin-hugo-cache-resources"
-
-        [plugins.inputs]
-            # If it should show more verbose logs (optional, default = true)
-            debug = true
-            # Relative path to source directory in case you use Hugo's "--s" option
-            srcdir = "exampleSite"
+  package = "netlify-plugin-hugo-cache-resources"
+  [plugins.inputs]
+    debug = true
+    srcdir = "."
