@@ -2,7 +2,7 @@ disabled = false
 languageCode = "cs"
 languageName = "Czech"
 weight = 1
-title = "Feldenkraisova® metoda"
+title = "Felden"
 
 [params.author]
 name = "Hana Kalinová"

@@ -2,6 +2,6 @@
 title: "Felden"
 ---
 
-![Felden](felden.png)
+![Felden](icon.png)
 
 Věnuji se Feldenkraisově® metodě a lekcím jógy pro dobrý pocit.

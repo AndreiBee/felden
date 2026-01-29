@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Novinky on</title><link>https://felden.cz/tags/novinky/</link><description>Recent content in Novinky on</description><generator>Hugo -- gohugo.io</generator><language>cs</language><copyright>© 2026</copyright><lastBuildDate>Wed, 28 Jan 2026 10:00:00 +0100</lastBuildDate><atom:link href="https://felden.cz/tags/novinky/index.xml" rel="self" type="application/rss+xml"/><item><title>Můj první článek</title><link>https://felden.cz/posts/prvni_clanek/</link><pubDate>Wed, 28 Jan 2026 10:00:00 +0100</pubDate><guid>https://felden.cz/posts/prvni_clanek/</guid><description>Krátké shrnutí článku (used for cards and meta).</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://felden.cz/posts/prvni_clanek/cover.png"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Novinky on Felden</title>
+    <link>http://localhost:1313/tags/novinky/</link>
+    <description>Recent content in Novinky on Felden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs</language>
+    <copyright>© 2026 Hana Kalinová</copyright>
+    <lastBuildDate>Wed, 28 Jan 2026 10:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/novinky/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Můj první článek</title>
+      <link>http://localhost:1313/posts/prvni_clanek/</link>
+      <pubDate>Wed, 28 Jan 2026 10:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/prvni_clanek/</guid>
+      <description>Krátké shrnutí článku (used for cards and meta).</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/prvni_clanek/cover.png" />
+    </item>
+    
+  </channel>
+</rss>
