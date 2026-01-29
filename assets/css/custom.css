@@ -1,0 +1,29 @@
+html, body {
+  min-height: 100%;
+}
+
+body {
+  background-image: url("/img/background.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  backdrop-filter: blur(50px);
+  -webkit-backdrop-filter: blur(50px); /* Safari */
+  z-index: -1;
+}
+
+/* centrovat všechny obrázky v obsahu článků */
+main article img,
+main .content img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
