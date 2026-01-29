@@ -2,6 +2,8 @@
 title: "O mně"
 ---
 
+![Škola](school.jpg)
+
 ## Vzdělání
 
 - Škola Reflexní terapie (Pataky)

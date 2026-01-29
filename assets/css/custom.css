@@ -14,9 +14,19 @@ body::before {
   content: "";
   position: fixed;
   inset: 0;
-  background: rgba(255, 255, 255, 0.08);
-  backdrop-filter: blur(15px);
-  -webkit-backdrop-filter: blur(15px); /* Safari */
+  background: rgba(255, 255, 255, 0.48);
+  backdrop-filter: blur(25px);
+  -webkit-backdrop-filter: blur(25px); /* Safari */
+  z-index: -1;
+}
+
+.dark body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.58);
+  backdrop-filter: blur(25px);
+  -webkit-backdrop-filter: blur(25px); /* Safari */
   z-index: -1;
 }
 
