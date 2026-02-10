@@ -41,9 +41,14 @@ pageRef = "o-mne"
 weight = 60
 
 [[main]]
+name = "Rezervace"
+pageRef = "rezervace"
+weight = 70
+
+[[main]]
 name = "Kontakt"
 pageRef = "kontakt"
-weight = 70
+weight = 80
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

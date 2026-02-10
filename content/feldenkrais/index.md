@@ -2,7 +2,7 @@
 title: "Feldenkraisova® metoda"
 ---
 
-![Felden](icon.png)
+![Felden](Feldenkrais.png)
 
 > Feldenkraisova® metoda je psychosomatická metoda vzdělávání, využívající neuroplasticitu mozku k zlepšení kvality pohybu a všech oblastí lidského života.
 

@@ -2,7 +2,7 @@ disabled = false
 languageCode = "cs"
 languageName = "Czech"
 weight = 1
-title = "Felden"
+title = ""
 
 [params.author]
 name = "Hana Kalinová"
