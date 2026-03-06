@@ -12,9 +12,9 @@ bio = "Individuální i skupinové lekce v Mníšku pod Brdy a okolí."
 links = [
   { phone = "tel:+420775873021" },
   { email = "mailto:feldencz@gmail.com" },
-  { facebook = "https://facebook.com/username" },
+# { facebook = "https://facebook.com/username" },
   { instagram = "https://www.instagram.com/hankajoga007?igsh=ajVqb3Bzb2dmNmU3" },
-  { linkedin = "https://linkedin.com/in/username" },
+# { linkedin = "https://linkedin.com/in/username" },
   { whatsapp = "https://wa.me/+420604914903" },
 ]
 
