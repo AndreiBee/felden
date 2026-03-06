@@ -6,7 +6,7 @@ title: "Kontakt"
 
 > Tel: +420 775 873 021
 >
-> Email: pihoun@volny.cz
+> Email: feldencz@gmail.com
 >
 > **Hana Kalinová**
 
