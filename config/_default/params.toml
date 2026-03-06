@@ -182,4 +182,4 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   # userId = ""
 
 [advertisement]
-  # adsense = ""
+# adsense = "arvion.cz"

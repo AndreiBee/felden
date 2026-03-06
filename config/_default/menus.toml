@@ -55,11 +55,16 @@ weight = 80
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
+name = "Rezervace"
+pageRef = "rezervace"
+weight = 50
+
+[[footer]]
 name = "Kontakt"
 pageRef = "kontakt"
-weight = 70
+weight = 60
 
 [[footer]]
 name = "Ceník"
 pageRef = "cenik"
-weight = 50
+weight = 70
