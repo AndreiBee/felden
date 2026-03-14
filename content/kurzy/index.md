@@ -6,17 +6,19 @@ title: "Kurzy a permanentky"
 
 ## Jóga pro dobrý pocit
 
-Středa 18:30–19:30 MKS Mníšek  
-7. 1. 2026 – 25. 3. 2026 (mimo 11. 2.)  
-**Cena: 1870 Kč (11 lekcí)**
+Středa 18:30–19:30 MKS Mníšek
+
+1. 4. 2026 – 24. 6. 2026 (mimo 15. 4. a 10.6.)  
+      **Cena: 1870 Kč (11 lekcí)**
 
 ---
 
 ## Feldenkraisova metoda ATM
 
-Středa 19:40–20:30 MKS Mníšek  
-7. 1. 2026 – 25. 3. 2026 (mimo 11. 2.)  
-**Cena: 2090 Kč (11 lekcí)**
+Středa 19:40–20:30 MKS Mníšek
+
+1. 4. 2026 – 24. 6. 2026 (mimo 15. 4. a 10.6.)  
+      **Cena: 2090 Kč (11 lekcí)**
 
 ---
 
