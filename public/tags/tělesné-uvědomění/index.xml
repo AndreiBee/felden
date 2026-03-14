@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tělesné Uvědomění on Felden</title>
+    <link>http://localhost:1313/tags/t%C4%9Blesn%C3%A9-uv%C4%9Bdom%C4%9Bn%C3%AD/</link>
+    <description>Recent content in Tělesné Uvědomění on Felden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs</language>
+    <copyright>© 2026 Hana Kalinová</copyright>
+    <lastBuildDate>Sat, 14 Mar 2026 11:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/t%C4%9Blesn%C3%A9-uv%C4%9Bdom%C4%9Bn%C3%AD/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Přínosy Feldenkraisovy metody</title>
+      <link>http://localhost:1313/posts/treti_clanek/</link>
+      <pubDate>Sat, 14 Mar 2026 11:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/treti_clanek/</guid>
+      <description>Feldenkraisova metoda přináší lehčí pohyb, lepší koordinaci, větší tělesné uvědomění a zklidnění nervového systému.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/treti_clanek/cover.jpeg" />
+    </item>
+    
+  </channel>
+</rss>

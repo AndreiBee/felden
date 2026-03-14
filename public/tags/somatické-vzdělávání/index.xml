@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Somatické Vzdělávání on Felden</title>
+    <link>http://localhost:1313/tags/somatick%C3%A9-vzd%C4%9Bl%C3%A1v%C3%A1n%C3%AD/</link>
+    <description>Recent content in Somatické Vzdělávání on Felden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs</language>
+    <copyright>© 2026 Hana Kalinová</copyright>
+    <lastBuildDate>Fri, 13 Mar 2026 10:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/somatick%C3%A9-vzd%C4%9Bl%C3%A1v%C3%A1n%C3%AD/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Životopis a dílo Moshého Feldenkraise, D.Sc.</title>
+      <link>http://localhost:1313/posts/druhy_clanek/</link>
+      <pubDate>Fri, 13 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/druhy_clanek/</guid>
+      <description>Krátké shrnutí článku (used for cards and meta).</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/druhy_clanek/cover.jpeg" />
+    </item>
+    
+  </channel>
+</rss>
