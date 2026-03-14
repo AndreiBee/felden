@@ -22,7 +22,7 @@ Středa 19:40–20:30 MKS Mníšek
 
 ---
 
-### Kombinace 2 prezenčních kurzu
+## Kombinace 2 prezenčních kurzu
 
 **11+11 lekcí 3760 Kč.**
 
