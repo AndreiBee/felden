@@ -1,0 +1,34 @@
+{{/* From Hugo, Apache v2 license
+  https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/_markup/render-link.html
+*/}}
+{{- $u := urls.Parse .Destination -}}
+{{- $href := $u.String -}}
+
+{{- if strings.HasPrefix $u.String "#" -}}
+  {{- $href = printf "%s#%s" .PageInner.RelPermalink $u.Fragment -}}
+{{- else if and $href (eq $u.Scheme "") -}}
+  {{- $path := strings.TrimPrefix "./" $u.Path -}}
+  {{- with or
+    ($.PageInner.GetPage $path)
+    ($.PageInner.Resources.Get $path)
+    (resources.Get $path)
+  -}}
+    {{- $href = .RelPermalink -}}
+    {{- with $u.RawQuery -}}
+      {{- $href = printf "%s?%s" $href . -}}
+    {{- end -}}
+    {{- with $u.Fragment -}}
+      {{- $href = printf "%s#%s" $href . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $forceNewTab := .Page.Params.externalLinkForceNewTab | default (.Page.Site.Params.article.externalLinkForceNewTab | default true) -}}
+{{- $isExternal := or (eq $u.Scheme "http") (eq $u.Scheme "https") -}}
+{{- $newTab := and $forceNewTab $isExternal -}}
+
+<a href="{{ $href | safeURL }}" {{ with .Title }}title="{{ . }}"{{ end }}
+  {{- if $newTab }} target="_blank" rel="noreferrer"{{ end }}>
+  {{- .Text | safeHTML -}}
+</a>
+{{- /* Trim EOF */ -}}

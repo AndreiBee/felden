@@ -7,36 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>cs</language>
     <copyright>© 2026 Hana Kalinová</copyright>
-    <lastBuildDate>Fri, 13 Mar 2026 10:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Mar 2026 11:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Životopis a dílo Moshého Feldenkraise, D.Sc.</title>
+      <title>Přínosy Feldenkraisovy metody</title>
+      <link>http://localhost:1313/posts/treti_clanek/</link>
+      <pubDate>Sat, 14 Mar 2026 11:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/treti_clanek/</guid>
+      <description>Feldenkraisova metoda přináší lehčí pohyb, lepší koordinaci, větší tělesné uvědomění a zklidnění nervového systému.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/treti_clanek/cover.jpeg" />
+    </item>
+    
+    <item>
+      <title>Životopis a dílo&lt;br&gt;Moshého Feldenkraise, D.Sc.</title>
       <link>http://localhost:1313/posts/druhy_clanek/</link>
       <pubDate>Fri, 13 Mar 2026 10:00:00 +0100</pubDate>
       
       <guid>http://localhost:1313/posts/druhy_clanek/</guid>
-      <description>Krátké shrnutí článku (used for cards and meta).</description>
+      <description>Přehled života a díla Moshého Feldenkraise, zakladatele Feldenkraisovy metody, a okolností, které vedly ke vzniku jeho přístupu k pohybu a učení.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/druhy_clanek/cover.jpeg" />
     </item>
     
     <item>
-      <title>Jak cvičit s důrazem na neuroplasticitu</title>
+      <title>Jak cvičit s důrazem&lt;br&gt;na neuroplasticitu</title>
       <link>http://localhost:1313/posts/prvni_clanek/</link>
       <pubDate>Thu, 12 Mar 2026 10:00:00 +0100</pubDate>
       
       <guid>http://localhost:1313/posts/prvni_clanek/</guid>
-      <description>Krátké shrnutí článku (used for cards and meta).</description>
+      <description>Pomalý a vědomý pohyb podporuje neuroplasticitu a pomáhá nervovému systému učit se nové, lehčí a efektivnější způsoby pohybu.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/prvni_clanek/cover.jpeg" />
-    </item>
-    
-    <item>
-      <title>Třetí článek</title>
-      <link>http://localhost:1313/posts/treti_clanek/</link>
-      <pubDate>Thu, 29 Jan 2026 11:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/posts/treti_clanek/</guid>
-      <description>Krátké shrnutí článku (used for cards and meta).</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/treti_clanek/cover.jpg" />
     </item>
     
   </channel>
