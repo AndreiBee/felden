@@ -30,21 +30,11 @@
     </item>
     
     <item>
-      <title>Neuroplasticita</title>
-      <link>http://localhost:1313/tags/neuroplasticita/</link>
+      <title>Psychofyzika</title>
+      <link>http://localhost:1313/tags/psychofyzika/</link>
       <pubDate>Sun, 15 Mar 2026 10:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/neuroplasticita/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Učení Pohybem</title>
-      <link>http://localhost:1313/tags/u%C4%8Den%C3%AD-pohybem/</link>
-      <pubDate>Sun, 15 Mar 2026 10:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tags/u%C4%8Den%C3%AD-pohybem/</guid>
+      <guid>http://localhost:1313/tags/psychofyzika/</guid>
       <description></description>
       
     </item>
@@ -55,6 +45,26 @@
       <pubDate>Sun, 15 Mar 2026 10:00:00 +0100</pubDate>
       
       <guid>http://localhost:1313/tags/v%C4%9Bdom%C3%BD-pohyb/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vnímání Pohybu</title>
+      <link>http://localhost:1313/tags/vn%C3%ADm%C3%A1n%C3%AD-pohybu/</link>
+      <pubDate>Sun, 15 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/vn%C3%ADm%C3%A1n%C3%AD-pohybu/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Weber-Fechnerův Zákon</title>
+      <link>http://localhost:1313/tags/weber-fechner%C5%AFv-z%C3%A1kon/</link>
+      <pubDate>Sun, 15 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/weber-fechner%C5%AFv-z%C3%A1kon/</guid>
       <description></description>
       
     </item>
@@ -105,6 +115,26 @@
       <pubDate>Fri, 13 Mar 2026 10:00:00 +0100</pubDate>
       
       <guid>http://localhost:1313/tags/%C5%BEivotopis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Neuroplasticita</title>
+      <link>http://localhost:1313/tags/neuroplasticita/</link>
+      <pubDate>Thu, 12 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/neuroplasticita/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Učení Pohybem</title>
+      <link>http://localhost:1313/tags/u%C4%8Den%C3%AD-pohybem/</link>
+      <pubDate>Thu, 12 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/u%C4%8Den%C3%AD-pohybem/</guid>
       <description></description>
       
     </item>
