@@ -11,16 +11,6 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "Feldenkrais"
-pageRef = "feldenkrais"
-weight = 10
-
-[[main]]
-name = "Jóga"
-pageRef = "joga"
-weight = 20
-
-[[main]]
 name = "Kde a kdy"
 pageRef = "rozvrh"
 weight = 30
@@ -36,14 +26,21 @@ pageRef = "kurzy"
 weight = 40
 
 [[main]]
+name = "Feldenkrais"
+parent = "Kurzy"
+pageRef = "feldenkrais"
+weight = 40
+
+[[main]]
+name = "Jóga"
+parent = "Kurzy"
+pageRef = "joga"
+weight = 40
+
+[[main]]
 name = "Ceník"
 pageRef = "cenik"
 weight = 50
-
-[[main]]
-name = "O mně"
-pageRef = "o-mne"
-weight = 60
 
 [[main]]
 name = "Rezervace"
@@ -53,6 +50,12 @@ weight = 70
 [[main]]
 name = "Kontakt"
 pageRef = "kontakt"
+weight = 80
+
+[[main]]
+name = "O mně"
+parent = "Kontakt"
+pageRef = "o-mne"
 weight = 80
 
 # -- Footer Menu --
