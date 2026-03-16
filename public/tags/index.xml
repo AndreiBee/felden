@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>cs</language>
     <copyright>© 2026 Hana Kalinová</copyright>
-    <lastBuildDate>Sat, 14 Mar 2026 11:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Mar 2026 10:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Feldenkrais</title>
       <link>http://localhost:1313/tags/feldenkrais/</link>
-      <pubDate>Sat, 14 Mar 2026 11:00:00 +0100</pubDate>
+      <pubDate>Sun, 15 Mar 2026 10:00:00 +0100</pubDate>
       
       <guid>http://localhost:1313/tags/feldenkrais/</guid>
       <description></description>
@@ -22,9 +22,39 @@
     <item>
       <title>Nervový Systém</title>
       <link>http://localhost:1313/tags/nervov%C3%BD-syst%C3%A9m/</link>
-      <pubDate>Sat, 14 Mar 2026 11:00:00 +0100</pubDate>
+      <pubDate>Sun, 15 Mar 2026 10:00:00 +0100</pubDate>
       
       <guid>http://localhost:1313/tags/nervov%C3%BD-syst%C3%A9m/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Neuroplasticita</title>
+      <link>http://localhost:1313/tags/neuroplasticita/</link>
+      <pubDate>Sun, 15 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/neuroplasticita/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Učení Pohybem</title>
+      <link>http://localhost:1313/tags/u%C4%8Den%C3%AD-pohybem/</link>
+      <pubDate>Sun, 15 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/u%C4%8Den%C3%AD-pohybem/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vědomý Pohyb</title>
+      <link>http://localhost:1313/tags/v%C4%9Bdom%C3%BD-pohyb/</link>
+      <pubDate>Sun, 15 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/v%C4%9Bdom%C3%BD-pohyb/</guid>
       <description></description>
       
     </item>
@@ -35,16 +65,6 @@
       <pubDate>Sat, 14 Mar 2026 11:00:00 +0100</pubDate>
       
       <guid>http://localhost:1313/tags/t%C4%9Blesn%C3%A9-uv%C4%9Bdom%C4%9Bn%C3%AD/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Vědomý Pohyb</title>
-      <link>http://localhost:1313/tags/v%C4%9Bdom%C3%BD-pohyb/</link>
-      <pubDate>Sat, 14 Mar 2026 11:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tags/v%C4%9Bdom%C3%BD-pohyb/</guid>
       <description></description>
       
     </item>
@@ -85,26 +105,6 @@
       <pubDate>Fri, 13 Mar 2026 10:00:00 +0100</pubDate>
       
       <guid>http://localhost:1313/tags/%C5%BEivotopis/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Neuroplasticita</title>
-      <link>http://localhost:1313/tags/neuroplasticita/</link>
-      <pubDate>Thu, 12 Mar 2026 10:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tags/neuroplasticita/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Učení Pohybem</title>
-      <link>http://localhost:1313/tags/u%C4%8Den%C3%AD-pohybem/</link>
-      <pubDate>Thu, 12 Mar 2026 10:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tags/u%C4%8Den%C3%AD-pohybem/</guid>
       <description></description>
       
     </item>

@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>cs</language>
     <copyright>© 2026 Hana Kalinová</copyright>
-    <lastBuildDate>Sat, 14 Mar 2026 11:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Mar 2026 10:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Weber-Fechnerův zákon</title>
+      <link>http://localhost:1313/posts/ctvrty_clanek/</link>
+      <pubDate>Sun, 15 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/ctvrty_clanek/</guid>
+      <description>Weber-Fechnerův zákon ukazuje, že jemné rozdíly vnímáme nejsnáze při nízké intenzitě podnětu. Ve Feldenkraisově metodě to vysvětluje, proč pomalý, malý a nenásilný pohyb podporuje přesnější vnímání i učení.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ctvrty_clanek/cover.jpg" />
+    </item>
     
     <item>
       <title>Přínosy Feldenkraisovy metody</title>
