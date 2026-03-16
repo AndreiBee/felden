@@ -26,16 +26,22 @@ pageRef = "kurzy"
 weight = 40
 
 [[main]]
+name = "Kurzy "
+parent = "Kurzy"
+pageRef = "kurzy"
+weight = 40
+
+[[main]]
 name = "Feldenkrais"
 parent = "Kurzy"
 pageRef = "feldenkrais"
-weight = 40
+weight = 42
 
 [[main]]
 name = "Jóga"
 parent = "Kurzy"
 pageRef = "joga"
-weight = 40
+weight = 44
 
 [[main]]
 name = "Ceník"
@@ -53,10 +59,16 @@ pageRef = "kontakt"
 weight = 80
 
 [[main]]
+name = "Kontakt "
+parent = "Kontakt"
+pageRef = "kontakt"
+weight = 82
+
+[[main]]
 name = "O mně"
 parent = "Kontakt"
 pageRef = "o-mne"
-weight = 80
+weight = 84
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
