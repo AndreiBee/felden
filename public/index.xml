@@ -139,5 +139,15 @@
       
     </item>
     
+    <item>
+      <title>Workshopy</title>
+      <link>http://localhost:1313/workshopy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshopy/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/workshopy/cover.png" />
+    </item>
+    
   </channel>
 </rss>

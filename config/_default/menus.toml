@@ -13,12 +13,17 @@
 [[main]]
 name = "Kde a kdy"
 pageRef = "rozvrh"
-weight = 30
+weight = 10
 
 [[main]]
   name = "Blog"
   pageRef = "posts"
-  weight = 35
+  weight = 20
+
+[[main]]
+name = "Workshopy"
+pageRef = "workshopy"
+weight = 30
 
 [[main]]
 name = "Kurzy"
@@ -29,46 +34,46 @@ weight = 40
 name = "Kurzy "
 parent = "Kurzy"
 pageRef = "kurzy"
-weight = 40
+weight = 50
 
 [[main]]
 name = "Feldenkrais"
 parent = "Kurzy"
 pageRef = "feldenkrais"
-weight = 42
+weight = 60
 
 [[main]]
 name = "Jóga"
 parent = "Kurzy"
 pageRef = "joga"
-weight = 44
+weight = 70
 
 [[main]]
 name = "Ceník"
 pageRef = "cenik"
-weight = 50
+weight = 80
 
 [[main]]
 name = "Rezervace"
 pageRef = "rezervace"
-weight = 70
+weight = 90
 
 [[main]]
 name = "Kontakt"
 pageRef = "kontakt"
-weight = 80
+weight = 100
 
 [[main]]
 name = "Kontakt "
 parent = "Kontakt"
 pageRef = "kontakt"
-weight = 82
+weight = 110
 
 [[main]]
 name = "O mně"
 parent = "Kontakt"
 pageRef = "o-mne"
-weight = 84
+weight = 120
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
