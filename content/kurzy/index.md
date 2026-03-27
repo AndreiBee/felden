@@ -11,6 +11,8 @@ Středa 18:30–19:30 MKS Mníšek
 1\. 4. 2026 – 24. 6. 2026 (mimo 15. 4. a 10.6.)  
  **Cena: 1870 Kč (11 lekcí)**
 
+![QRCode](2026-03-27_1870CZK.png)
+
 ---
 
 ## Feldenkraisova metoda ATM
@@ -19,6 +21,8 @@ Středa 19:40–20:30 MKS Mníšek
 
 1\. 4. 2026 – 24. 6. 2026 (mimo 15. 4. a 10.6.)  
  **Cena: 2090 Kč (11 lekcí)**
+
+![QRCode](2026-03-27_2090CZK.png)
 
 ---
 
@@ -30,6 +34,8 @@ Přestupová permice na 10 vstupů v platnosti délky kurzu
 2200 Kč 10 vstupů.
 
 Jednorázové vstupné 250 Kč/ 200 Kč plátci jiného kurzu.
+
+![QRCode](2026-03-27_3760CZK.png)
 
 ---
 
