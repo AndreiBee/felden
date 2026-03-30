@@ -7,6 +7,9 @@ title: "Ceník"
 ## Jóga pro dobrý pocit
 
 - 250 Kč / jednorázově pro externisty
+
+![QRCode](2026-03-30_250CZK.png)
+
 - 220 Kč / při koupi 10 vstupové permice…
 - 170–220 Kč / permice
 

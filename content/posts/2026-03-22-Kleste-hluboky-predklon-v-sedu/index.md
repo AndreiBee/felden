@@ -19,9 +19,7 @@ summary: "Paschimottanásana neboli kleště je klasický jógový předklon v s
 featuredImage: "cover.png" # relativní k branch bundle
 ---
 
-![Weber-Fechnerův zákon](cover.png)
-
-# Kleště (Paschimottanásana) – hluboký předklon v sedu
+![Kleště (Paschimottanásana) – hluboký předklon v sedu](cover.png)
 
 _Kleště (Paschimottanásana)_ patří mezi základní jógové pozice zaměřené na intenzivní protažení zadní strany těla. Kromě fyzických účinků má silný vliv i na psychiku – pomáhá zpomalit a obrátit pozornost dovnitř.
 

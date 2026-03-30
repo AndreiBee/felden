@@ -4,42 +4,48 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-22T10:00:00+01:00</lastmod>
+    <lastmod>2026-03-30T01:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/paty_clanek/</loc>
-    <lastmod>2026-03-22T10:00:00+01:00</lastmod>
+    <loc>http://localhost:1313/posts/2026-03-30-mindfulness-a-feldenkraisova-metoda-vztah-tela-mysli-a-vedome-pozornosti/</loc>
+    <lastmod>2026-03-30T01:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-03-30T01:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2026-03-22-kleste-hluboky-predklon-v-sedu/</loc>
     <lastmod>2026-03-22T10:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/ctvrty_clanek/</loc>
+    <loc>http://localhost:1313/posts/2026-03-15-weber-fechneruv-zakon/</loc>
     <lastmod>2026-03-15T10:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/treti_clanek/</loc>
+    <loc>http://localhost:1313/posts/2026-03-14-prinosy-feldenkraisovy-metody/</loc>
     <lastmod>2026-03-14T11:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/druhy_clanek/</loc>
+    <loc>http://localhost:1313/posts/2026-03-13-zivotopis-a-dilo-mosneho-feldenkraise/</loc>
     <lastmod>2026-03-13T10:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/prvni_clanek/</loc>
+    <loc>http://localhost:1313/posts/2026-03-12-jak-cvicit-s-durazem-na-neuroplasticitu/</loc>
     <lastmod>2026-03-12T10:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
