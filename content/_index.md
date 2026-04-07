@@ -7,3 +7,5 @@ summary: "Felden.cz – Feldenkraisova metoda a lekce jógy s Hanou Kalinovou. K
 ![Main Image](main.png)
 
 Věnuji se Feldenkraisově® metodě a lekcím jógy pro dobrý pocit.
+
+# [📞 +420 775 873 021](tel:+420775873021)
