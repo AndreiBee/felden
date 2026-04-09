@@ -25,7 +25,7 @@ links = [
   dateFormat = "2 January 2006"
   logo = "img/icon.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "Feldenkraisova metoda a lekce jógy pro zdravější pohyb, menší napětí a vědomější práci s tělem."
   # copyright = "Copy, _right?_ :thinking_face:"
 
 # [params.author]

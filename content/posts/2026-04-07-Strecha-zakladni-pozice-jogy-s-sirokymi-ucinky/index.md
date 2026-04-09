@@ -4,18 +4,18 @@ date: 2026-04-07T01:00:00+01:00
 draft: false
 tags:
   [
-    "mindfulness",
-    "všímavost",
-    "Feldenkraisova metoda",
-    "somatika",
-    "vědomý pohyb",
-    "nervový systém",
-    "neuroplasticita",
-    "pozornost",
-    "regulace emocí",
-    "kvalita života",
+    "jóga",
+    "jógová pozice",
+    "Adho Mukha Svanasana",
+    "pes hlavou dolů",
+    "střecha",
+    "protažení zad",
+    "dech",
+    "stabilita",
+    "mobilita",
+    "vnímání těla",
   ]
-summary: "Mindfulness a Feldenkraisova metoda® spojuje vědomou pozornost s učením skrze pohyb. Článek ukazuje, jak tento somatický přístup podporuje neuroplasticitu, regulaci nervového systému, kvalitu pozornosti i propojení tělesného a psychického prožívání."
+summary: "Pozice střechy, známá jako Adho Mukha Svanasana, patří k základním jógovým pozicím s širokým účinkem na celé tělo. Podporuje protažení zadní strany těla, posílení horní části trupu, klidnější dech i lepší stabilitu a článek ukazuje také časté chyby a jednoduché úpravy."
 featuredImage: "cover.png" # relativní k branch bundle
 ---
 
