@@ -13,7 +13,8 @@ tags:
     "neurověda",
     "nervový systém",
     "Feldenkraisova metoda",
-    "vědomý pohyb"
+    "vědomý pohyb",
+  ]
 summary: "Co je neuroplasticita a jak funguje? Článek vysvětluje, jak mozek mění svou strukturu a funkci na základě zkušeností, pohybu a učení, jakou roli hrají synapse, BDNF, acetylcholin a další neurotransmitery a jak lze principy neuroplasticity využít ve Feldenkraisově metodě ke zlepšení pohybu, snížení napětí a vyšší kvalitě života."
 featuredImage: "cover.png" # relativní k branch bundle
 ---
