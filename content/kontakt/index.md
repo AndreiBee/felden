@@ -25,7 +25,7 @@ Líšnice 22
 Na Oboře  
 252 10 Mníšek pod Brdy
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d659401.3559107239!2d12.856750512516935!3d49.790078877431874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470b9f47f44a840d%3A0xc54a2a702b1bf2e2!2zS3VsdHVybsOtIHN0xZllZGlza28!5e0!3m2!1sen!2scz!4v1788181310709!5m2!1sen!2scz" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d606.8035621739532!2d14.258616593331663!3d49.869813041248385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470b9f47f44a840d%3A0xc54a2a702b1bf2e2!2zS3VsdHVybsOtIHN0xZllZGlza28!5e0!3m2!1sen!2scz!4v1788274804556!5m2!1sen!2scz" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 ## Fakturační údaje
 
