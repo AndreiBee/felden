@@ -4,7 +4,7 @@
 
 [build.environment]
   # Netlify Hugo guide: nastav si verzi, aby se ti to nerozbíjelo mezi buildy
-  HUGO_VERSION = "0.154.5"
+  HUGO_VERSION = "0.165.0"
   HUGO_ENV = "production"
 
 [context.branch-deploy]
