@@ -11,69 +11,44 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "Kde a kdy"
-pageRef = "rozvrh"
+name = "Feldenkrais"
+pageRef = "feldenkrais"
 weight = 10
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
-  weight = 20
-
-[[main]]
-name = "Workshopy"
-pageRef = "workshopy"
-weight = 30
+name = "Jóga"
+pageRef = "joga"
+weight = 20
 
 [[main]]
 name = "Kurzy"
 pageRef = "kurzy"
+weight = 30
+
+[[main]]
+name = "Workshopy"
+pageRef = "workshopy"
 weight = 40
 
 [[main]]
-name = "Kurzy "
-parent = "Kurzy"
-pageRef = "kurzy"
+name = "Individuální lekce / FI"
+pageRef = "funkcni_integrace"
 weight = 50
 
 [[main]]
-name = "Feldenkrais"
-parent = "Kurzy"
-pageRef = "feldenkrais"
+name = "Nahrávky"
+pageRef = "nahravky"
 weight = 60
 
 [[main]]
-name = "Jóga"
-parent = "Kurzy"
-pageRef = "joga"
+name = "Blog"
+pageRef = "posts"
 weight = 70
-
-[[main]]
-name = "Ceník"
-pageRef = "cenik"
-weight = 80
-
-[[main]]
-name = "Rezervace"
-pageRef = "rezervace"
-weight = 90
 
 [[main]]
 name = "Kontakt"
 pageRef = "kontakt"
-weight = 100
-
-[[main]]
-name = "Kontakt "
-parent = "Kontakt"
-pageRef = "kontakt"
-weight = 110
-
-[[main]]
-name = "O mně"
-parent = "Kontakt"
-pageRef = "o-mne"
-weight = 120
+weight = 80
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

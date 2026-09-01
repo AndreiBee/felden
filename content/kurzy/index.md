@@ -1,56 +1,120 @@
 ---
-title: "Kurzy a permanentky"
+title: "Kde a kdy"
 ---
 
-![Kurzy](kurzy.png)
+![Kde a kdy](joga.jpeg)
 
-## Jóga pro dobrý pocit
+##### Zdroj: Miya Špačková
 
-Středa 18:30–19:30 MKS Mníšek
+- **Kurz PO 18 h**: od 14. 9. 2026 do 14. 12. 2026 (mimo 28. 9.\*, 5. 10., 26. 10.)
+- **Kurz STŘ 18:30 a 19:40 h**: od 16. 9. 2026 do 9. 12. 2026 (mimo 30. 9., 28. 10.)
 
-1\. 4. 2026 – 24. 6. 2026 (mimo 15. 4. a 10.6.)  
- **Cena: 1870 Kč (11 lekcí)**
+_\* Opraveno z původního "29. 9." — 28. 9. 2026 je pondělí a státní svátek (Den české státnosti), zatímco 29. 9. je úterý a do rozvrhu pondělního kurzu nezapadá. S opravou vychází přesně 11 lekcí dle ceníku._
 
-![QRCode](2026-03-27_1870CZK.png)
+### Rozvrh hodin
 
----
+| Den                     | Čas         | Lekce                                | Místo                   |
+| ----------------------- | ----------- | ------------------------------------ | ----------------------- |
+| Pondělí                 | 18:00–18:50 | ATM Feldenkraisova metoda            | sál MKS Mníšek pod Brdy |
+| Středa                  | 18:30–19:30 | Jóga pro dobrý pocit                 | sál MKS Mníšek pod Brdy |
+| Středa                  | 19:40–20:30 | ATM Feldenkraisova metoda            | sál MKS Mníšek pod Brdy |
+| Sobota (zhruba měsíčně) | 2–4 hod     | Workshop ATM – Feldenkraisova metoda | —                       |
 
-## Feldenkraisova metoda ATM
+_(Úterý, čtvrtek, pátek a neděle bez pravidelných lekcí.)_
 
-Středa 19:40–20:30 MKS Mníšek
+## Kalendář lekcí — září až prosinec 2026
 
-1\. 4. 2026 – 24. 6. 2026 (mimo 15. 4. a 10.6.)  
- **Cena: 2090 Kč (11 lekcí)**
+Legenda:
 
-![QRCode](2026-03-27_2090CZK.png)
+- 🔵 ATM Feldenkrais I. (Po 18:00)
+- 🟢 Jóga pro dobrý pocit (St 18:30)
+- 🟠 ATM Feldenkrais II. (St 19:40)
+- ❌ lekce odpadá (svátek / volno)
 
----
+Termíny sobotních workshopů ATM budou doplněny, jakmile budou známy.
 
-## Kombinace 2 prezenčních kurzu
+### Září 2026
 
-**11+11 lekcí 3760 Kč.**
+| Po    | Út  | St      | Čt  | Pá  | So  | Ne  |
+| ----- | --- | ------- | --- | --- | --- | --- |
+|       | 1   | 2       | 3   | 4   | 5   | 6   |
+| 7     | 8   | 9       | 10  | 11  | 12  | 13  |
+| 14 🔵 | 15  | 16 🟢🟠 | 17  | 18  | 19  | 20  |
+| 21 🔵 | 22  | 23 🟢🟠 | 24  | 25  | 26  | 27  |
+| 28 ❌ | 29  | 30 ❌   |     |     |     |     |
 
-Přestupová permice na 10 vstupů v platnosti délky kurzu
-2200 Kč 10 vstupů.
+### Říjen 2026
 
-Jednorázové vstupné 250 Kč/ 200 Kč plátci jiného kurzu.
+| Po    | Út  | St      | Čt  | Pá  | So  | Ne  |
+| ----- | --- | ------- | --- | --- | --- | --- |
+|       |     |         | 1   | 2   | 3   | 4   |
+| 5 ❌  | 6   | 7 🟢🟠  | 8   | 9   | 10  | 11  |
+| 12 🔵 | 13  | 14 🟢🟠 | 15  | 16  | 17  | 18  |
+| 19 🔵 | 20  | 21 🟢🟠 | 22  | 23  | 24  | 25  |
+| 26 ❌ | 27  | 28 ❌   | 29  | 30  | 31  |     |
 
-![QRCode](2026-03-27_3760CZK.png)
+### Listopad 2026
 
----
+| Po    | Út  | St      | Čt  | Pá  | So  | Ne  |
+| ----- | --- | ------- | --- | --- | --- | --- |
+|       |     |         |     |     |     | 1   |
+| 2 🔵  | 3   | 4 🟢🟠  | 5   | 6   | 7   | 8   |
+| 9 🔵  | 10  | 11 🟢🟠 | 12  | 13  | 14  | 15  |
+| 16 🔵 | 17  | 18 🟢🟠 | 19  | 20  | 21  | 22  |
+| 23 🔵 | 24  | 25 🟢🟠 | 26  | 27  | 28  | 29  |
+| 30 🔵 |     |         |     |     |     |     |
 
-## Feldenkraisova metoda ONLINE
+### Prosinec 2026
 
-Nevypsáno
+| Po    | Út  | St     | Čt  | Pá  | So  | Ne  |
+| ----- | --- | ------ | --- | --- | --- | --- |
+|       | 1   | 2 🟢🟠 | 3   | 4   | 5   | 6   |
+| 7 🔵  | 8   | 9 🟢🟠 | 10  | 11  | 12  | 13  |
+| 14 🔵 | 15  | 16     | 17  | 18  | 19  | 20  |
+| 21    | 22  | 23     | 24  | 25  | 26  | 27  |
+| 28    | 29  | 30     | 31  |     |     |     |
 
----
+## Ceny — kurzy, permice, vstupy
 
-> ## Fakturace
->
-> **Poskytuji faktury s možností uplatnění u Zdravotních pojišťoven nebo zaměstnavatele.**
+**Jednorázový vstup:** 260 Kč
 
-> ## Podmínky
->
-> Předplatné se platí za rezervaci místa v kurzu, nenahrazuje se a nevrací se peníze v případě absence.
-> V případě vážných důvodů je možná po osobní domluvě náhrada části hodin popř. sleva na další permici.
-> V případě absence je možné za sebe poslat náhradu.
+### Kurzy a vstupy 09/26–12/26
+
+| Kurz                          | Termín    | Lekcí |         Cena | Bonus\* |
+| :---------------------------- | :-------- | ----: | -----------: | ------: |
+| 🔵 ATM Feldenkrais I.         | Po 18:00  |    11 | **2 200 Kč** |    +3,3 |
+| 🟢 Jóga s prvky Feldenkrais   | St 18:30  |    11 | **1 980 Kč** |    +4,9 |
+| 🟠 ATM Feldenkrais II.        | St 19:40  |    11 | **2 200 Kč** |    +3,3 |
+| ⚪ Vstupovka (platí do 06/27) | libovolně |    10 | **2 300 Kč** |    +1,5 |
+
+### Kombinace
+
+| Kombinace                          | Termín                              | Lekcí |     Cena |   Sleva |       Celkem | Bonus\* |
+| :--------------------------------- | :---------------------------------- | ----: | -------: | ------: | -----------: | ------: |
+| 🔵🟠 DVOJ ATM I. a II.             | Po 18:00 + St 19:40                 |    22 | 4 400 Kč | −200 Kč | **4 200 Kč** |    +7,6 |
+| 🟢🔵 DVOJ Jóga a ATM               | St 18:30 + (St 19:40 nebo Po 18:00) |    22 | 4 180 Kč | −100 Kč | **4 080 Kč** |    +8,3 |
+| 🔵🟢🟠 TROJ ATM I., ATM II. a Jóga | Po 18:00 + St 18:30 + St 19:40      |    33 | 6 380 Kč | −400 Kč | **5 980 Kč** |     +13 |
+| ⚪ Kombi vstupovka ke kurzu        | libovolně                           |     5 | 1 100 Kč |       — | **1 100 Kč** |      +1 |
+
+_\* Bonus = kolik lekcí navíc byste za tuto cenu dostali oproti placení jednorázových vstupů (260 Kč/lekce)._
+
+**Možné náhrady** — ke kurzům lze vystavit fakturu na pojišťovnu.
+
+### Termíny kurzů
+
+- **Kurz PO 18 h**: od 14. 9. 2026 do 14. 12. 2026 (mimo 28. 9., 5. 10., 26. 10.)
+- **Kurz STŘ 18:30 a 19:40 h**: od 16. 9. 2026 do 9. 12. 2026 (mimo 30. 9., 28. 10.)
+
+## Platba
+
+Vyplň částku a do zprávy napiš jméno, den a typ kurzu.
+
+![QR](qr.png)
+
+## Fakturace
+
+Poskytuji faktury s možností uplatnění u zdravotních pojišťoven nebo zaměstnavatele.
+
+## Podmínky
+
+Předplatné se platí za rezervaci místa v kurzu, nenahrazuje se a nevrací se peníze v případě absence. V případě vážných důvodů je možná po osobní domluvě náhrada části hodin, popř. sleva na další permici. V případě absence je možné za sebe poslat náhradu.
