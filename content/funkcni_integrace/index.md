@@ -6,7 +6,7 @@ title: "Funkční integrace – individuální cesta k lehčímu pohybu"
 
 <p style="text-align:center; margin: 1.75rem 0; font-style: italic; font-size: 0.9rem;">Zdroj: Miya Špačková</p>
 
-_Funkční integrace (FI)_ je individuální forma _Feldenkraisovy metody®, která prostřednictvím jemného, cíleného pohybu a doteku pomáhá objevovat nové možnosti pohybu a vnímání vlastního těla. Vychází z principů \*\*neuroplasticity a motorického učení_ a pracuje s tím, jak nervový systém organizuje pohyb celého těla.
+_Funkční integrace (FI)_ je individuální forma \_Feldenkraisovy metody®, která prostřednictvím jemného, cíleného pohybu a doteku pomáhá objevovat nové možnosti pohybu a vnímání vlastního těla. Vychází z principů **neuroplasticity a motorického učení** a pracuje s tím, jak nervový systém organizuje pohyb celého těla.
 
 Nejde o mechanické napravování jednotlivých částí těla ani o masáž. Lektor pomocí citlivě vedených pohybů vytváří podmínky, ve kterých může nervový systém rozpoznávat _pohodlnější, účinnější a lépe koordinované způsoby pohybu_. Výsledkem může být větší lehkost, lepší pohyblivost a koordinace, snížení zbytečného svalového napětí a celkově příjemnější vnímání vlastního těla.
 
@@ -24,7 +24,7 @@ Funkční integrace může být přínosná rovněž pro lidi, kteří prožíva
 
 ## Co si vzít s sebou
 
-Na lekci není potřeba žádné speciální vybavení. Ideální je _pohodlné, volnější oblečení, které neomezuje v pohybu – například tričko, legíny nebo tepláky a ponožky. Funkční integrace probíhá \*\*v oblečení_, proto doporučuji přijít v něčem, v čem se můžete pohodlně pohybovat a uvolnit.
+Na lekci není potřeba žádné speciální vybavení. Ideální je pohodlné, volnější oblečení, které neomezuje v pohybu – například tričko, legíny nebo tepláky a ponožky. Funkční integrace probíhá **v oblečení**, proto doporučuji přijít v něčem, v čem se můžete pohodlně pohybovat a uvolnit.
 
 ## Co můžete během lekce očekávat
 

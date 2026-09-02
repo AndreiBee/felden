@@ -6,11 +6,11 @@ title: "Feldenkraisova® metoda – pohyb jako cesta k učení a změně"
 
 _Feldenkraisova® metoda je psychosomatická metoda vzdělávání, která využívá schopnost nervového systému učit se a měnit – neuroplasticitu – ke zlepšení kvality pohybu, vnímání sebe sama a každodenního fungování._
 
-Vychází z přirozené schopnosti člověka _učit se prostřednictvím pohybu a vlastní zkušenosti. Nejde o cvičení založené na opakování správných pohybů ani o mechanickou nápravu těla. Prostřednictvím jemného pohybu, pozornosti a vnímání rozdílů vytváříme podmínky, ve kterých může nervový systém objevovat \*\*nové a funkčně výhodnější možnosti pohybu a organizace těla_.
+Vychází z přirozené schopnosti člověka _učit se prostřednictvím pohybu a vlastní zkušenosti. Nejde o cvičení založené na opakování správných pohybů ani o mechanickou nápravu těla. Prostřednictvím jemného pohybu, pozornosti a vnímání rozdílů vytváříme podmínky, ve kterých může nervový systém objevovat **nové a funkčně výhodnější možnosti pohybu a organizace těla**_.
 
 Metodu vyhledávají lidé nejrůznějšího věku a v rozdílné fyzické i psychické kondici. Využívají ji lidé s bolestmi nebo pohybovým omezením, ale také ti, kteří chtějí _zlepšit koordinaci, pohyblivost, vnímání vlastního těla a celkovou kvalitu života_.
 
-Principy Feldenkraisovy metody® využívají rovněž _sportovci, hudebníci, tanečníci a další profese, u kterých je důležitá přesnost, koordinace a efektivita pohybu. Přínosná může být také \*\*pro děti se speciálními potřebami_, kterým individuální a respektující přístup nabízí prostor pro objevování a rozvoj jejich vlastních pohybových možností.
+Principy Feldenkraisovy metody® využívají rovněž _sportovci, hudebníci, tanečníci a další profese, u kterých je důležitá přesnost, koordinace a efektivita pohybu. Přínosná může být také **pro děti se speciálními potřebami**, kterým individuální a respektující přístup nabízí prostor pro objevování a rozvoj jejich vlastních pohybových možností_.
 
 ## Dvě formy Feldenkraisovy metody®
 

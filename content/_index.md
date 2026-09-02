@@ -148,6 +148,16 @@ summary: "Felden.cz – Feldenkraisova metoda a lekce jógy s Hanou Kalinovou. K
   opacity: 0.35;
   margin-bottom: -1.5rem;
 }
+#fk-quote p::after {
+  content: "”";
+  display: block;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 5rem;
+  line-height: 1;
+  color: rgb(var(--color-primary-500));
+  opacity: 0.35;
+  margin-top: 1.0rem;
+}
 #fk-quote p {
   font-family: Georgia, "Times New Roman", serif;
   font-style: italic;
@@ -266,4 +276,4 @@ summary: "Felden.cz – Feldenkraisova metoda a lekce jógy s Hanou Kalinovou. K
 })();
 </script>
 
-# [📞 +420 775 873 021](tel:+420775873021)
+### [📞 +420 775 873 021](tel:+420775873021)
