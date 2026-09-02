@@ -4,12 +4,10 @@ title: "Kde a kdy"
 
 ![Kde a kdy](joga.jpeg)
 
-##### Zdroj: Miya Špačková
+<p style="text-align:center; margin: 1.75rem 0; font-style: italic; font-size: 0.9rem;">Zdroj: Miya Špačková</p>
 
 - **Kurz PO 18 h**: od 14. 9. 2026 do 14. 12. 2026 (mimo 28. 9.\*, 5. 10., 26. 10.)
 - **Kurz STŘ 18:30 a 19:40 h**: od 16. 9. 2026 do 9. 12. 2026 (mimo 30. 9., 28. 10.)
-
-_\* Opraveno z původního "29. 9." — 28. 9. 2026 je pondělí a státní svátek (Den české státnosti), zatímco 29. 9. je úterý a do rozvrhu pondělního kurzu nezapadá. S opravou vychází přesně 11 lekcí dle ceníku._
 
 ### Rozvrh hodin
 

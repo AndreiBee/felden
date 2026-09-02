@@ -1,8 +1,8 @@
 ---
-title: "Nahrávky"
+title: "Nahrávky 🎧"
 ---
 
-### Lekce 1 – Dech a uvolnění
+### Lekce zdarma 1 – Rotace
 
 <div id="lekce-1-audio">
     <audio controls style="width:100%;" src="File_1.mp3"></audio>

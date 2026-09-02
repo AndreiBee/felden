@@ -2,7 +2,7 @@
 title: "Feldenkraisova® metoda – pohyb jako cesta k učení a změně"
 ---
 
-![Felden](feldenkrais.jpg)
+<img src="feldenkrais.jpg" alt="Feldenkrais" style="max-width: 280px; width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 8px">
 
 _Feldenkraisova® metoda je psychosomatická metoda vzdělávání, která využívá schopnost nervového systému učit se a měnit – neuroplasticitu – ke zlepšení kvality pohybu, vnímání sebe sama a každodenního fungování._
 

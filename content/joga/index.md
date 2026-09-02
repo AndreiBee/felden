@@ -4,7 +4,7 @@ title: "Jóga pro dobrý pocit"
 
 ![Jóga pro dobrý pocita kdy](joga.jpeg)
 
-##### Zdroj: Miya Špačková
+<p style="text-align:center; margin: 1.75rem 0; font-style: italic; font-size: 0.9rem;">Zdroj: Miya Špačková</p>
 
 _Jóga pro dobrý pocit_ je koncept, který propojuje jógovou praxi s principy _Feldenkraisovy metody®. Cílem není jen zvládnout jednotlivé pozice, ale postupně \*\*zlepšovat jejich provedení, pohyblivost, stabilitu a sílu_ a zároveň se učit používat tělo tak, aby byl pohyb přirozenější, bezpečnější a příjemnější.
 
