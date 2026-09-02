@@ -153,10 +153,10 @@ summary: "Felden.cz – Feldenkraisova metoda a lekce jógy s Hanou Kalinovou. K
   display: block;
   font-family: Georgia, "Times New Roman", serif;
   font-size: 5rem;
-  line-height: 1;
+  line-height: 0.5;
   color: rgb(var(--color-primary-500));
   opacity: 0.35;
-  margin-top: 1.0rem;
+  margin-top: 2.0rem;
 }
 #fk-quote p {
   font-family: Georgia, "Times New Roman", serif;
