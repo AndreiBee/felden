@@ -101,10 +101,24 @@ summary: "Felden.cz – Feldenkraisova metoda a lekce jógy s Hanou Kalinovou. K
   line-height: 1.55;
   margin: 0 0 0.75rem;
   height: calc(1.55em * 4);
-  display: -webkit-box;
-  -webkit-line-clamp: 4;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
+  overflow-y: auto;
+  overflow-x: hidden;
+  text-align: left;
+  padding-right: 0.6rem;
+  -webkit-overflow-scrolling: touch;
+  cursor: text;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(var(--color-primary-500), 0.4) transparent;
+}
+#testimonials .t-text::-webkit-scrollbar {
+  width: 5px;
+}
+#testimonials .t-text::-webkit-scrollbar-track {
+  background: transparent;
+}
+#testimonials .t-text::-webkit-scrollbar-thumb {
+  background: rgba(var(--color-primary-500), 0.4);
+  border-radius: 999px;
 }
 #testimonials .t-name {
   font-weight: 600;
@@ -214,14 +228,14 @@ summary: "Felden.cz – Feldenkraisova metoda a lekce jógy s Hanou Kalinovou. K
 (function () {
     var reviews = [
         {name:"Luba K.", initials:"LK", color:"#6C63FF", text:"Po long-covidu jsem měla neurologické potíže a při chůzi jsem upadala – utrpěla jsem zlomeniny ruky i ramene a prodělala tři operace. Moc mi pomohl Hančin citlivý přístup a cvičení. Dnes už nepotřebuji berle ani hole. Děkuji a těším se na další lekce! 💕"},
-        {name:"Petr S.", initials:"PS", color:"#FF6B6B", text:"Skvělý přístup a odborné vedení. Po pár měsících cítím mnohem lepší pohyblivost a méně bolesti v zádech."},
-        {name:"Marie H.", initials:"MH", color:"#4ECDC4", text:"Konečně metoda, která mi pomohla s dlouhodobou bolestí ramene. Lekce jsou klidné a citlivě vedené."},
-        {name:"Tomáš V.", initials:"TV", color:"#FFA94D", text:"Lekce jógy jsou pro mě každý týden malým svátkem klidu. Odcházím vždy uvolněný a s čistou hlavou."},
-        {name:"Eva N.", initials:"EN", color:"#A78BFA", text:"Profesionální a zároveň velmi lidský přístup. Vřele doporučuji každému, kdo hledá cestu k lepšímu pohybu."},
-        {name:"Karel D.", initials:"KD", color:"#38B2AC", text:"Cítím se pohyblivější a uvolněnější, než jsem byl kdy dřív. Lekce mi pomohly změnit i každodenní návyky."},
-        {name:"Lucie P.", initials:"LP", color:"#F472B6", text:"Individuální lekce mi pomohly pochopit vlastní tělo úplně jinak. Jsem za tuto zkušenost moc vděčná."},
-        {name:"Milan R.", initials:"MR", color:"#60A5FA", text:"Skvělá atmosféra, vždy odcházím s úsměvem a lehčím krokem. Doporučuji všem svým přátelům."},
-        {name:"Hana B.", initials:"HB", color:"#34D399", text:"Díky Feldenkraisově metodě lépe spím a méně mě bolí krk. Cítím se celkově klidnější a vyrovnanější."},
+        {name:"Helena P.", initials:"HP", color:"#FF6B6B", text:"Hanka pomohla celé naší rodině. Manželova vášeň je běhání, ale roky se jí nemohl věnovat naplno, kvuli mikrotraumatům a následným zánětům ve svalech. Po měsíci s Hankou běhá bez bolesti a bez omezení. Náš malý syn po roce fyzioterapie nechodil. Stavěl se pouze na špičky. Ve dvaceti měsících věku jsem ho vzala k Hance. Nyní o měsíc později obchází nábytek po celých chodidlech, stojí a věřím, že prvního krůčku se brzy dočkáme. Navíc, cvičení s Hankou ho ohromně baví. I manžel si chválil, že oproti běžné fyzio to vůbec není dřina. Mně Hanka pomohla s bolestí kolen po porodu a s držením těla. Odpočinula jsem si u ní na lehátku a vstala jako nová 🤗 moc děkuji za všechny. A abych nezapomněla, naše nejmladší byla úplně gumová, hodně se klátila a  i když fyzio řekla, že to tak bude celoživotně, tak po dvou desetiminutovkách s Hankou je zpevněná a celkově klidnější."},
+        {name:"Katka Š.", initials:"KŠ", color:"#4ECDC4", text:"S Feldenkraisovou metodou jsem se seznámila v době, kdy mě trápily velké potíže s krční páteří, a právě díky pravidelnému cvičení moje obtíže postupně úplně zmizely. U Feldenkraise jsem ale zůstala i poté, protože mi nepřináší jen úlevu pro tělo, ale také zklidnění mysli a větší vnímavost k vlastnímu tělu. Z lekcí se pro mě stal přirozený součást mého života a něco, bez čeho už si svůj životní styl neumím představit. Hanka  je skvělá lektorka – její hodiny vede s velkou citlivostí, klidem a zároveň profesionalitou. Moc mi vyhovuje její přístup, kdy nic nenutí, ale člověka vede k tomu, aby sám vnímal své tělo a postupně objevoval, co mu dělá dobře."},
+        {name:"Lenka H.", initials:"LH", color:"#FFA94D", text:"Po diagnostikovaném long-covidu jsem měla neurologické potíže a při chůzi jsem několikrát upadla a utrpěla několikanásobné zlomeniny ruky a ramene.Prodělala jsem i tři operace a rehabilitace.To už jsem věděla o tomto cvičení a znala Hanku. Moc mi  pomohl její přístup a cvičení. Tímto bych jí chtěla poděkovat, s jakým nasazením se snažíl pomoci lidem. Dnes už nepotřebuji ani berle ani hole. Stále ale cvičím. Zdravím a těším se na další lekce."},
+        {name:"Zuzana Č.", initials:"ZČ", color:"#A78BFA", text:"Cvičení Feldenkrais je potěcha nejen pro tělo, ale i pro duši a pod vedením Haničky, je to prostě báječné! Za sebe děkuji!"},
+        {name:"Radka P.", initials:"RP", color:"#38B2AC", text:"Na Feldenkraisovo cvičení k Hance chodím pravidelně a moc mi vyhovuje. Hanka je velmi milá, příjemná a její vedení je klidné a srozumitelné. Cvičení mi dělá dobře a vždy odcházím příjemně uvolněná. Mohu jen doporučit."},
+        {name:"Petra Š.", initials:"PŠ", color:"#F472B6", text:"Jóga s Hankou, je vždy pozitivně laděná.  Parta která se pravidelně schází je na pohodu. Protáhneme tělo a na závěr ten relax  je za odměnu, že nám opět o kousek posunula naše hranice. "},
+        {name:"Veronika R.", initials:"VR", color:"#60A5FA", text:"Na lekce jógy chodím již třetím rokem a musim říct, že lektorka Hanka je velice erudovaná, příjemná lektorka, která je velice znalá ve svém oboru a její lekce jsou vždy velice relaxační, profesionálně vedené a mohu tuto lektorku jen doporučit."},
+        {name:"Marie K.", initials:"MK", color:"#34D399", text:"K Hance chodím na Feldenkraisovu metodu moc ráda! Vede ji s citem a učí nás vnímat své tělo a kolikrát se opravdu přestaví zažité nesprávné vzorce a tělo nachází jiné snazší, plynulejší pohyby a bonusem je i klid v mysli."},
         {name:"Jiří M.", initials:"JM", color:"#FBBF24", text:"Nejlepší investice do mého zdraví za poslední roky. Konečně rozumím tomu, jak se správně hýbat."},
         {name:"Kateřina S.", initials:"KS", color:"#F87171", text:"Trpělivý a citlivý přístup, skvělé i pro úplné začátečníky. Cítila jsem se od první lekce v bezpečí."},
         {name:"Zuzana L.", initials:"ZL", color:"#818CF8", text:"Po lekcích se cítím jako znovuzrozená. Obrovský rozdíl oproti tomu, jak jsem se hýbala předtím."},
@@ -255,6 +269,25 @@ summary: "Felden.cz – Feldenkraisova metoda a lekce jógy s Hanou Kalinovou. K
     });
   }
   render(0);
+
+  Array.prototype.forEach.call(dots, function (dot, i) {
+  dot.style.cursor = 'pointer';
+  dot.addEventListener('click', function () {
+    index = i;
+    render(index);
+    stop();
+    start();
+  });
+});
+
+var touchResume;
+function pauseForTouch() {
+  stop();
+  clearTimeout(touchResume);
+  touchResume = setTimeout(start, 8000);
+}
+card.addEventListener('touchstart', pauseForTouch, { passive: true });
+card.addEventListener('touchmove', pauseForTouch, { passive: true });
 
   var timer;
   function next() {
