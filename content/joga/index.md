@@ -6,19 +6,19 @@ title: "Jóga pro dobrý pocit"
 
 <p style="text-align:center; margin: 1.75rem 0; font-style: italic; font-size: 0.9rem;">Zdroj: Miya Špačková</p>
 
-_Jóga pro dobrý pocit_ je koncept, který propojuje jógovou praxi s principy _Feldenkraisovy metody®. Cílem není jen zvládnout jednotlivé pozice, ale postupně \*\*zlepšovat jejich provedení, pohyblivost, stabilitu a sílu_ a zároveň se učit používat tělo tak, aby byl pohyb přirozenější, bezpečnější a příjemnější.
+_Jóga pro dobrý pocit_ je koncept, který propojuje jógovou praxi s principy _Feldenkraisovy metody®_. Cílem není jen zvládnout jednotlivé pozice, ale postupně _zlepšovat jejich provedení, pohyblivost, stabilitu a sílu_ a zároveň se učit používat tělo tak, aby byl pohyb přirozenější, bezpečnější a příjemnější.
 
-Prvky Feldenkraisovy metody® využívám především jako _cestu do jógových pozic. Pomocí menších, jemných a přesně vedených pohybů nejprve připravujeme jednotlivé části těla a hledáme jejich vzájemnou spolupráci. Díky tomu se můžete do ásany dostat snadněji, s lepší organizací pohybu a bez zbytečného napětí. Postupně tak můžete pozorovat, že pozice, které byly zpočátku obtížné, se stávají \*\*dostupnějšími, stabilnějšími a příjemnějšími_.
+Prvky Feldenkraisovy metody® využívám především jako _cestu do jógových pozic_. Pomocí menších, jemných a přesně vedených pohybů nejprve připravujeme jednotlivé části těla a hledáme jejich vzájemnou spolupráci. Díky tomu se můžete do ásany dostat snadněji, s lepší organizací pohybu a bez zbytečného napětí. Postupně tak můžete pozorovat, že pozice, které byly zpočátku obtížné, se stávají _dostupnějšími, stabilnějšími a příjemnějšími_.
 
 ## Co můžete od lekcí očekávat
 
-Pravidelným cvičením budeme pracovat na tom, aby se _zlepšovalo provedení jednotlivých jógových pozic, zvětšovala se pohyblivost a současně se tělo postupně zpevňovalo. Významnou součástí lekcí je práce s \*\*core – funkčním středem těla a hlubokým stabilizačním systémem_. Nejde jen o posilování břišních svalů, ale o koordinovanou spolupráci středu těla, pánve, páteře a dechu.
+Pravidelným cvičením budeme pracovat na tom, aby se _zlepšovalo provedení jednotlivých jógových pozic_, zvětšovala se pohyblivost a současně se tělo postupně zpevňovalo. Významnou součástí lekcí je práce s **core – funkčním středem těla a hlubokým stabilizačním systémem**. Nejde jen o posilování břišních svalů, ale o koordinovanou spolupráci středu těla, pánve, páteře a dechu.
 
-Velkou pozornost věnujeme _zdravému a funkčnímu pohybu páteře. Učíme se rozložit pohyb mezi jednotlivé části těla tak, aby některé oblasti nemusely neustále přebírat nadměrnou zátěž. Pravidelná praxe tak může přispět k \*\*prevenci a zmírnění bolestí zad_, lepšímu držení těla a větší lehkosti při běžném pohybu.
+Velkou pozornost věnujeme _zdravému a funkčnímu pohybu páteře_. Učíme se rozložit pohyb mezi jednotlivé části těla tak, aby některé oblasti nemusely neustále přebírat nadměrnou zátěž. Pravidelná praxe tak může přispět k **prevenci a zmírnění bolestí zad**, lepšímu držení těla a větší lehkosti při běžném pohybu.
 
 ## Silnější a pružnější tělo
 
-Lekce kombinují _mobilitu, stabilitu, posílení a protažení. Postupně budujeme pevnější střed těla, sílu nohou, paží i zad a současně zachováváme pružnost a volnost pohybu. Cílem není být co nejvíce ohebný, ale vytvořit tělo, které je \*\*silné, pohyblivé a dobře koordinované_.
+Lekce kombinují _mobilitu, stabilitu, posílení a protažení_. Postupně budujeme pevnější střed těla, sílu nohou, paží i zad a současně zachováváme pružnost a volnost pohybu. Cílem není být co nejvíce ohebný, ale vytvořit tělo, které je **silné, pohyblivé a dobře koordinované**.
 
 Pokrok nemusí znamenat pouze větší rozsah pohybu. Může se projevit také tím, že pozici zvládnete s menším úsilím, lépe v ní dýcháte, máte větší stabilitu nebo ji dokážete provést bez nepříjemného napětí.
 
@@ -26,7 +26,7 @@ Pokrok nemusí znamenat pouze větší rozsah pohybu. Může se projevit také t
 
 Součástí lekcí je také _vědomá práce s dechem, pozorností a vnímáním vlastního těla_. Soustředění na pohyb pomáhá odvést pozornost od každodenního shonu a vytváří prostor pro zklidnění.
 
-Pravidelná pohybová praxe může přispět ke _snížení stresu a psychického napětí, lepší náladě a celkovému pocitu fyzické i psychické pohody. Právě odtud vychází název \*\*Jóga pro dobrý pocit_ – cílem lekce není jen něco odcvičit, ale odcházet s pocitem, že se ve svém těle cítíte lépe.
+Pravidelná pohybová praxe může přispět ke _snížení stresu a psychického napětí, lepší náladě a celkovému pocitu fyzické i psychické pohody_. Právě odtud vychází název **Jóga pro dobrý pocit** – cílem lekce není jen něco odcvičit, ale odcházet s pocitem, že se ve svém těle cítíte lépe.
 
 ## Pro koho je Jóga pro dobrý pocit vhodná
 
