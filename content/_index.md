@@ -100,15 +100,7 @@ summary: "Felden.cz – Feldenkraisova metoda a lekce jógy s Hanou Kalinovou. K
   font-style: italic;
   line-height: 1.55;
   margin: 0 0 0.75rem;
-  height: calc(1.55em * 4);
-  overflow-y: auto;
-  overflow-x: hidden;
   text-align: left;
-  padding-right: 0.6rem;
-  -webkit-overflow-scrolling: touch;
-  cursor: text;
-  scrollbar-width: thin;
-  scrollbar-color: rgba(var(--color-primary-500), 0.4) transparent;
 }
 #testimonials .t-text::-webkit-scrollbar {
   width: 5px;
@@ -227,16 +219,16 @@ summary: "Felden.cz – Feldenkraisova metoda a lekce jógy s Hanou Kalinovou. K
 <script>
 (function () {
     var reviews = [
-        {name:"Luba K.", initials:"LK", color:"#6C63FF", text:"Po diagnostikovaném long-covidu jsem měla neurologické potíže a při chůzi jsem několikrát upadla a utrpěla několikanásobné zlomeniny ruky a ramene.Prodělala jsem i tři operace a rehabilitace.To už jsem věděla o tomto cvičení a znala Hanku. Moc mi  pomohl její přístup a cvičení. Tímto bych jí chtěla poděkovat, s jakým nasazením se snaží pomoci lidem. Dnes už nepotřebuji ani berle ani hole. Stále ale cvičím 💕 Zdravím a těším se na další lekce."},
-        {name:"Helena P.", initials:"HP", color:"#FF6B6B", text:"Hanka pomohla celé naší rodině. Manželova vášeň je běhání, ale roky se jí nemohl věnovat naplno, kvuli mikrotraumatům a následným zánětům ve svalech. Po měsíci s Hankou běhá bez bolesti a bez omezení. Náš malý syn po roce fyzioterapie nechodil. Stavěl se pouze na špičky. Ve dvaceti měsících věku jsem ho vzala k Hance. Nyní o měsíc později obchází nábytek po celých chodidlech, stojí a věřím, že prvního krůčku se brzy dočkáme. Navíc, cvičení s Hankou ho ohromně baví. I manžel si chválil, že oproti běžné fyzio to vůbec není dřina. Mně Hanka pomohla s bolestí kolen po porodu a s držením těla. Odpočinula jsem si u ní na lehátku a vstala jako nová 🤗 moc děkuji za všechny. A abych nezapomněla, naše nejmladší byla úplně gumová, hodně se klátila a  i když fyzio řekla, že to tak bude celoživotně, tak po dvou desetiminutovkách s Hankou je zpevněná a celkově klidnější."},
-        {name:"Katka Š.", initials:"KŠ", color:"#4ECDC4", text:"S Feldenkraisovou metodou jsem se seznámila v době, kdy mě trápily velké potíže s krční páteří, a právě díky pravidelnému cvičení moje obtíže postupně úplně zmizely. U Feldenkraise jsem ale zůstala i poté, protože mi nepřináší jen úlevu pro tělo, ale také zklidnění mysli a větší vnímavost k vlastnímu tělu. Z lekcí se pro mě stal přirozený součást mého života a něco, bez čeho už si svůj životní styl neumím představit. Hanka  je skvělá lektorka – její hodiny vede s velkou citlivostí, klidem a zároveň profesionalitou. Moc mi vyhovuje její přístup, kdy nic nenutí, ale člověka vede k tomu, aby sám vnímal své tělo a postupně objevoval, co mu dělá dobře."},
+        {name:"Lubomíra K.", initials:"LK", color:"#6C63FF", text:"Po diagnostikovaném long-covidu jsem měla neurologické potíže a při chůzi jsem několikrát upadla a utrpěla několikanásobné zlomeniny ruky a ramene.Prodělala jsem i tři operace a rehabilitace.To už jsem věděla o tomto cvičení a znala Hanku. Moc mi  pomohl její přístup a cvičení. Tímto bych jí chtěla poděkovat, s jakým nasazením se snaží pomoci lidem. Dnes už nepotřebuji ani berle ani hole. Stále ale cvičím 💕 Zdravím a těším se na další lekce."},
+        {name:"Helena P. Veterinární lékař a Chiropraktik", initials:"HP", color:"#FF6B6B", text:"Hanka pomohla celé naší rodině. Manželova vášeň je běhání, ale roky se jí nemohl věnovat naplno, kvuli mikrotraumatům a následným zánětům ve svalech. Po měsíci s Hankou běhá bez bolesti a bez omezení. Náš malý syn po roce fyzioterapie nechodil. Stavěl se pouze na špičky. Ve dvaceti měsících věku jsem ho vzala k Hance. Nyní o měsíc později obchází nábytek po celých chodidlech, stojí a věřím, že prvního krůčku se brzy dočkáme. Navíc, cvičení s Hankou ho ohromně baví. I manžel si chválil, že oproti běžné fyzio to vůbec není dřina. Mně Hanka pomohla s bolestí kolen po porodu a s držením těla. Odpočinula jsem si u ní na lehátku a vstala jako nová 🤗 moc děkuji za všechny. A abych nezapomněla, naše nejmladší byla úplně gumová, hodně se klátila a  i když fyzio řekla, že to tak bude celoživotně, tak po dvou desetiminutovkách s Hankou je zpevněná a celkově klidnější."},
+        {name:"Kateřina Š.", initials:"KŠ", color:"#4ECDC4", text:"S Feldenkraisovou metodou jsem se seznámila v době, kdy mě trápily velké potíže s krční páteří, a právě díky pravidelnému cvičení moje obtíže postupně úplně zmizely. U Feldenkraise jsem ale zůstala i poté, protože mi nepřináší jen úlevu pro tělo, ale také zklidnění mysli a větší vnímavost k vlastnímu tělu. Z lekcí se pro mě stal přirozený součást mého života a něco, bez čeho už si svůj životní styl neumím představit. Hanka  je skvělá lektorka – její hodiny vede s velkou citlivostí, klidem a zároveň profesionalitou. Moc mi vyhovuje její přístup, kdy nic nenutí, ale člověka vede k tomu, aby sám vnímal své tělo a postupně objevoval, co mu dělá dobře."},
         {name:"Zuzana Č.", initials:"ZČ", color:"#A78BFA", text:"Cvičení Feldenkrais je potěcha nejen pro tělo, ale i pro duši a pod vedením Haničky, je to prostě báječné! Za sebe děkuji!"},
         {name:"Radka P.", initials:"RP", color:"#38B2AC", text:"Na Feldenkraisovo cvičení k Hance chodím pravidelně a moc mi vyhovuje. Hanka je velmi milá, příjemná a její vedení je klidné a srozumitelné. Cvičení mi dělá dobře a vždy odcházím příjemně uvolněná. Mohu jen doporučit."},
         {name:"Petra Š.", initials:"PŠ", color:"#F472B6", text:"Jóga s Hankou, je vždy pozitivně laděná.  Parta která se pravidelně schází je na pohodu. Protáhneme tělo a na závěr ten relax  je za odměnu, že nám opět o kousek posunula naše hranice. "},
         {name:"Veronika R.", initials:"VR", color:"#60A5FA", text:"Na lekce jógy chodím již třetím rokem a musim říct, že lektorka Hanka je velice erudovaná, příjemná lektorka, která je velice znalá ve svém oboru a její lekce jsou vždy velice relaxační, profesionálně vedené a mohu tuto lektorku jen doporučit."},
         {name:"Marie K.", initials:"MK", color:"#34D399", text:"K Hance chodím na Feldenkraisovu metodu moc ráda! Vede ji s citem a učí nás vnímat své tělo a kolikrát se opravdu přestaví zažité nesprávné vzorce a tělo nachází jiné snazší, plynulejší pohyby a bonusem je i klid v mysli."},
         {name:"Káťa Š.", initials:"KŠ", color:"#FBBF24", text:"Individuální lekce FI pro mě byly nedílnou součástí celé cesty k odstranění potíží s krční páteří. Jemná práce v pohybu, při které terapeut citlivě vede tělo a pomáhá mu objevovat nové možnosti bez námahy a bolesti, mi přinesla nejen fyzickou úlevu, ale také větší vnímání vlastního těla a jeho potřeb. Hanka je naprosto výjimečná terapeutka – má neuvěřitelně citlivý přístup, pracuje s obrovskou vnímavostí a respektem a člověk se vedle ní cítí v naprostém bezpečí."},
-        {name:"Kateřina S.", initials:"KS", color:"#F87171", text:"Trpělivý a citlivý přístup, skvělé i pro úplné začátečníky. Cítila jsem se od první lekce v bezpečí."},
+        {name:"Renata S.", initials:"RS", color:"#F87171", text:"Jsem nadšená, u Feldenkraise si nejsem úplně jistá, zda cvičím správně, ale moc mi pomáhá na psychiku a vždy odcházím totálně vyklidněná. Takže moc děkuji."},
         {name:"Zuzana L.", initials:"ZL", color:"#818CF8", text:"Po lekcích se cítím jako znovuzrozená. Obrovský rozdíl oproti tomu, jak jsem se hýbala předtím."},
         {name:"Pavel K.", initials:"PK", color:"#2DD4BF", text:"Doporučuji všem, kdo hledají cestu k menšímu stresu a napětí. Lekce mi pomohly zklidnit mysl i tělo."},
         {name:"Barbora T.", initials:"BT", color:"#FB923C", text:"Konečně cvičení, které mě baví a zároveň mi opravdu pomáhá. Těším se na každou další lekci."},
@@ -288,24 +280,42 @@ function pauseForTouch() {
 card.addEventListener('touchstart', pauseForTouch, { passive: true });
 card.addEventListener('touchmove', pauseForTouch, { passive: true });
 
-  var timer;
-  function next() {
-    card.classList.add('t-fade');
-    setTimeout(function () {
-      index = (index + 1) % reviews.length;
-      render(index);
-      card.classList.remove('t-fade');
-    }, 350);
-  }
-  function start() {
-    timer = setInterval(next, 5000);
-  }
-  function stop() {
-    clearInterval(timer);
-  }
-  start();
-  card.addEventListener('mouseenter', stop);
-  card.addEventListener('mouseleave', start);
+function readingDuration(text) {
+  var words = text.trim().split(/\s+/).length;
+  return Math.max(5000, Math.min(25000, words * 330 + 1500));
+}
+
+var timer;
+function next() {
+  card.classList.add('t-fade');
+  setTimeout(function () {
+    index = (index + 1) % reviews.length;
+    render(index);
+    card.classList.remove('t-fade');
+    scheduleNext();
+  }, 350);
+}
+function scheduleNext() {
+  timer = setTimeout(next, readingDuration(reviews[index].text));
+}
+function start() {
+  scheduleNext();
+}
+function stop() {
+  clearTimeout(timer);
+}
+start();
+card.addEventListener('mouseenter', stop);
+card.addEventListener('mouseleave', start);
+
+var touchResume;
+function pauseForTouch() {
+  stop();
+  clearTimeout(touchResume);
+  touchResume = setTimeout(start, 8000);
+}
+card.addEventListener('touchstart', pauseForTouch, { passive: true });
+card.addEventListener('touchmove', pauseForTouch, { passive: true });
 })();
 </script>
 
