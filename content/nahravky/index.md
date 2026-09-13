@@ -2,17 +2,24 @@
 title: "Nahrávky 🎧"
 ---
 
-### Lekce zdarma – Rotace
+### Lekce zdarma – Hrudník
 
 <div id="lekce-1-audio">
-    <audio controls style="width:100%;" src="File_1.mp3"></audio>
+    <audio controls style="width:100%;" src="File_03.mp3"></audio>
 </div>
 
 ### Lekce zdarma – Pánev
 
 <div id="lekce-1-audio">
-    <audio controls style="width:100%;" src="File_2.mp3"></audio>
+    <audio controls style="width:100%;" src="File_02.mp3"></audio>
 </div>
+
+### Lekce zdarma – Rotace
+
+<div id="lekce-1-audio">
+    <audio controls style="width:100%;" src="File_01.mp3"></audio>
+</div>
+
 <div style="text-align:center; margin: 2rem 0;">
   <p>Chcete přístup k dalším nahrávkám?</p>
   <a id="cta-clenska-sekce" href="/clenska-sekce/">Členská sekce</a>
