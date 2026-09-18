@@ -124,8 +124,8 @@ summary: "Felden.cz – Feldenkraisova metoda a lekce jógy s Hanou Kalinovou. K
   flex-wrap: wrap;
 }
 #testimonials .t-dot {
-  width: 7px;
-  height: 7px;
+  width: 8px;
+  height: 8px;
   border-radius: 50%;
   background: rgb(var(--color-neutral-400));
   opacity: 0.4;
