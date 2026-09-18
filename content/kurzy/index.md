@@ -96,7 +96,9 @@ Termíny sobotních workshopů ATM budou doplněny, jakmile budou známy.
 
 _\* Bonus = kolik lekcí navíc byste za tuto cenu dostali oproti placení jednorázových vstupů (260 Kč/lekce)._
 
-**Možné náhrady** — ke kurzům lze vystavit fakturu na pojišťovnu.
+Možné náhrady absence na ostatních hodinách dle domluvy.
+
+Poskytuji faktury na zdravotní pojišťovnu.
 
 ### Termíny kurzů
 
