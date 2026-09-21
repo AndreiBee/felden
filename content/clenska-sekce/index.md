@@ -5,13 +5,13 @@ title: "Členská sekce 🔒"
 ### Lekce 4 – (název)
 
 <div class="lekce-audio">
-    <audio controls style="width:100%;" src="File_4.mp3"></audio>
+    <audio controls controlsList="nodownload" style="width:100%;" src="File_4.mp3"></audio>
 </div>
 
 ### Lekce 5 – (název)
 
 <div class="lekce-audio">
-    <audio controls style="width:100%;" src="File_5.mp3"></audio>
+    <audio controls controlsList="nodownload" style="width:100%;" src="File_5.mp3"></audio>
 </div>
 
 <style>

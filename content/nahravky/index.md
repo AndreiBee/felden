@@ -5,19 +5,19 @@ title: "Nahrávky 🎧"
 ### Lekce zdarma – Hrudník
 
 <div id="lekce-1-audio">
-    <audio controls style="width:100%;" src="File_03.mp3"></audio>
+    <audio controls controlsList="nodownload" style="width:100%;" src="File_03.mp3"></audio>
 </div>
 
 ### Lekce zdarma – Pánev
 
 <div id="lekce-1-audio">
-    <audio controls style="width:100%;" src="File_02.mp3"></audio>
+    <audio controls controlsList="nodownload" style="width:100%;" src="File_02.mp3"></audio>
 </div>
 
 ### Lekce zdarma – Rotace
 
 <div id="lekce-1-audio">
-    <audio controls style="width:100%;" src="File_01.mp3"></audio>
+    <audio controls controlsList="nodownload" style="width:100%;" src="File_01.mp3"></audio>
 </div>
 
 <div style="text-align:center; margin: 2rem 0;">
